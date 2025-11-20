@@ -1,0 +1,32 @@
+[
+  {
+    "address": "Sveavägen 98, Norrmalm",
+    "price": 5200000,
+    "area": 34,
+    "rooms": 1.5
+  },
+  {
+    "address": "Hornsgatan 72, Södermalm",
+    "price": 7600000,
+    "area": 52,
+    "rooms": 2
+  },
+  {
+    "address": "Värtavägen 12, Östermalm",
+    "price": 11200000,
+    "area": 78,
+    "rooms": 3
+  },
+  {
+    "address": "Götgatan 112, Södermalm",
+    "price": 8900000,
+    "area": 65,
+    "rooms": 2.5
+  },
+  {
+    "address": "Hälsingegatan 4, Vasastan",
+    "price": 6700000,
+    "area": 44,
+    "rooms": 1.5
+  }
+]
