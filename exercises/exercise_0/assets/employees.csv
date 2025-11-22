@@ -1,0 +1,21 @@
+,first_name,last_name,phone_number,email,department,salary,title
+0,Erik,Andersson,+46 705 12 34 56,erik.andersson@example.com,IT,45000,Software Engineer
+1,Anna,Svensson,+46 739 87 65 43,anna.svensson@example.com,HR,42000,HR Coordinator
+2,Johan,Nilsson,+46 721 23 45 67,johan.nilsson@example.com,marketing,50000,Marketing Manager
+3,Maria,Karlsson,+46 707 34 56 78,maria.karlsson@example.com,sales,55000,Sales Representative
+4,Lars,Lindström,+46 735 45 67 89,lars.lindstrom@example.com,IT,60000,Senior Developer
+5,Sofia,Persson,+46 709 56 78 90,sofia.persson@example.com,HR,48000,HR Manager
+6,Anders,Bergman,+46 723 67 89 01,anders.bergman@example.com,marketing,47000,Marketing Specialist
+7,Karin,Lundqvist,+46 701 78 90 12,karin.lundqvist@example.com,sales,62000,Sales Manager
+8,Magnus,Ström,+46 737 89 01 23,magnus.strom@example.com,IT,52000,System Administrator
+9,Lena,Holm,+46 703 90 12 34,lena.holm@example.com,HR,38000,Recruitment Assistant
+10,Peter,Ekström,+46 725 01 23 45,peter.ekstrom@example.com,marketing,53000,Digital Marketing Specialist
+11,Eva,Jonsson,+46 708 12 34 56,eva.jonsson@example.com,sales,49000,Sales Associate
+12,Mikael,Gustafsson,+46 732 23 45 67,mikael.gustafsson@example.com,IT,58000,Network Engineer
+13,Annika,Sandström,+46 706 34 56 78,annika.sandstrom@example.com,HR,51000,Compensation Analyst
+14,Fredrik,Danielsson,+46 730 45 67 89,fredrik.danielsson@example.com,marketing,44000,Content Creator
+15,Sara,Eriksson,+46 704 56 78 90,sara.eriksson@example.com,sales,57000,Key Account Manager
+16,Thomas,Holmberg,+46 728 67 89 01,thomas.holmberg@example.com,IT,49000,Help Desk Support
+17,Christina,Wikström,+46 702 78 90 12,christina.wikstrom@example.com,HR,45000,Training Coordinator
+18,Daniel,Eklund,+46 736 89 01 23,daniel.eklund@example.com,marketing,56000,Public Relations Manager
+19,Louise,Berglund,+46 700 90 12 34,louise.berglund@example.com,sales,51000,Sales Team Lead

@@ -1,0 +1,184 @@
+{
+  "employees": [
+    {
+      "first_name": "Erik",
+      "last_name": "Andersson",
+      "phone_number": "+46 705 12 34 56",
+      "email": "erik.andersson@example.com",
+      "department": "IT",
+      "salary": 45000,
+      "title": "Software Engineer"
+    },
+    {
+      "first_name": "Anna",
+      "last_name": "Svensson",
+      "phone_number": "+46 739 87 65 43",
+      "email": "anna.svensson@example.com",
+      "department": "HR",
+      "salary": 42000,
+      "title": "HR Coordinator"
+    },
+    {
+      "first_name": "Johan",
+      "last_name": "Nilsson",
+      "phone_number": "+46 721 23 45 67",
+      "email": "johan.nilsson@example.com",
+      "department": "marketing",
+      "salary": 50000,
+      "title": "Marketing Manager"
+    },
+    {
+      "first_name": "Maria",
+      "last_name": "Karlsson",
+      "phone_number": "+46 707 34 56 78",
+      "email": "maria.karlsson@example.com",
+      "department": "sales",
+      "salary": 55000,
+      "title": "Sales Representative"
+    },
+    {
+      "first_name": "Lars",
+      "last_name": "Lindström",
+      "phone_number": "+46 735 45 67 89",
+      "email": "lars.lindstrom@example.com",
+      "department": "IT",
+      "salary": 60000,
+      "title": "Senior Developer"
+    },
+    {
+      "first_name": "Sofia",
+      "last_name": "Persson",
+      "phone_number": "+46 709 56 78 90",
+      "email": "sofia.persson@example.com",
+      "department": "HR",
+      "salary": 48000,
+      "title": "HR Manager"
+    },
+    {
+      "first_name": "Anders",
+      "last_name": "Bergman",
+      "phone_number": "+46 723 67 89 01",
+      "email": "anders.bergman@example.com",
+      "department": "marketing",
+      "salary": 47000,
+      "title": "Marketing Specialist"
+    },
+    {
+      "first_name": "Karin",
+      "last_name": "Lundqvist",
+      "phone_number": "+46 701 78 90 12",
+      "email": "karin.lundqvist@example.com",
+      "department": "sales",
+      "salary": 62000,
+      "title": "Sales Manager"
+    },
+    {
+      "first_name": "Magnus",
+      "last_name": "Ström",
+      "phone_number": "+46 737 89 01 23",
+      "email": "magnus.strom@example.com",
+      "department": "IT",
+      "salary": 52000,
+      "title": "System Administrator"
+    },
+    {
+      "first_name": "Lena",
+      "last_name": "Holm",
+      "phone_number": "+46 703 90 12 34",
+      "email": "lena.holm@example.com",
+      "department": "HR",
+      "salary": 38000,
+      "title": "Recruitment Assistant"
+    },
+    {
+      "first_name": "Peter",
+      "last_name": "Ekström",
+      "phone_number": "+46 725 01 23 45",
+      "email": "peter.ekstrom@example.com",
+      "department": "marketing",
+      "salary": 53000,
+      "title": "Digital Marketing Specialist"
+    },
+    {
+      "first_name": "Eva",
+      "last_name": "Jonsson",
+      "phone_number": "+46 708 12 34 56",
+      "email": "eva.jonsson@example.com",
+      "department": "sales",
+      "salary": 49000,
+      "title": "Sales Associate"
+    },
+    {
+      "first_name": "Mikael",
+      "last_name": "Gustafsson",
+      "phone_number": "+46 732 23 45 67",
+      "email": "mikael.gustafsson@example.com",
+      "department": "IT",
+      "salary": 58000,
+      "title": "Network Engineer"
+    },
+    {
+      "first_name": "Annika",
+      "last_name": "Sandström",
+      "phone_number": "+46 706 34 56 78",
+      "email": "annika.sandstrom@example.com",
+      "department": "HR",
+      "salary": 51000,
+      "title": "Compensation Analyst"
+    },
+    {
+      "first_name": "Fredrik",
+      "last_name": "Danielsson",
+      "phone_number": "+46 730 45 67 89",
+      "email": "fredrik.danielsson@example.com",
+      "department": "marketing",
+      "salary": 44000,
+      "title": "Content Creator"
+    },
+    {
+      "first_name": "Sara",
+      "last_name": "Eriksson",
+      "phone_number": "+46 704 56 78 90",
+      "email": "sara.eriksson@example.com",
+      "department": "sales",
+      "salary": 57000,
+      "title": "Key Account Manager"
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Holmberg",
+      "phone_number": "+46 728 67 89 01",
+      "email": "thomas.holmberg@example.com",
+      "department": "IT",
+      "salary": 49000,
+      "title": "Help Desk Support"
+    },
+    {
+      "first_name": "Christina",
+      "last_name": "Wikström",
+      "phone_number": "+46 702 78 90 12",
+      "email": "christina.wikstrom@example.com",
+      "department": "HR",
+      "salary": 45000,
+      "title": "Training Coordinator"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Eklund",
+      "phone_number": "+46 736 89 01 23",
+      "email": "daniel.eklund@example.com",
+      "department": "marketing",
+      "salary": 56000,
+      "title": "Public Relations Manager"
+    },
+    {
+      "first_name": "Louise",
+      "last_name": "Berglund",
+      "phone_number": "+46 700 90 12 34",
+      "email": "louise.berglund@example.com",
+      "department": "sales",
+      "salary": 51000,
+      "title": "Sales Team Lead"
+    }
+  ]
+}
