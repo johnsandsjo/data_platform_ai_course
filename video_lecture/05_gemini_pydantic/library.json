@@ -1,0 +1,55 @@
+{
+    "name": "Biblioteket i Stan",
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "publication_year": 1925
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "publication_year": 1949
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "publication_year": 1960
+        },
+        {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "publication_year": 1813
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "publication_year": 1951
+        },
+        {
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "publication_year": 1851
+        },
+        {
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "publication_year": 1869
+        },
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "publication_year": 1937
+        },
+        {
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel Garcia Marquez",
+            "publication_year": 1967
+        },
+        {
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "publication_year": 1866
+        }
+    ]
+}
