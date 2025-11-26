@@ -26,12 +26,6 @@
             "publication_year": 1949
         },
         {
-            "id": 5,
-            "title": "The Great Gatsby",
-            "author": "F. Scott Fitzgerald",
-            "publication_year": 1925
-        },
-        {
             "id": 6,
             "title": "Moby Dick",
             "author": "Herman Melville",
@@ -50,16 +44,10 @@
             "publication_year": 1951
         },
         {
-            "id": 9,
-            "title": "The Hobbit",
-            "author": "J.R.R. Tolkien",
-            "publication_year": 1937
-        },
-        {
             "id": 10,
-            "title": "Brave New World",
-            "author": "Aldous Huxley",
-            "publication_year": 1932
+            "author": "Updated author",
+            "title": "Insert title",
+            "publication_year": 2020
         }
     ]
 }

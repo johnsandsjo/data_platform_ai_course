@@ -15,8 +15,10 @@ dependencies = [
     "ipykernel>=7.1.0",
     "matplotlib>=3.10.7",
     "pandas>=2.3.3",
+    "pydantic-ai>=1.23.0",
     "pydantic>=2.12.4",
     "requests>=2.32.5",
     "scikit-learn>=1.7.2",
     "uvicorn>=0.38.0",
+    "dlt>=1.18.2",
 ]
