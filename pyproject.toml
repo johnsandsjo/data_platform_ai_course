@@ -21,4 +21,6 @@ dependencies = [
     "scikit-learn>=1.7.2",
     "uvicorn>=0.38.0",
     "dlt>=1.18.2",
+    "streamlit>=1.51.0",
+    "lancedb>=0.25.3",
 ]
