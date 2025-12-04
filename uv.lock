@@ -591,6 +591,7 @@ dependencies = [
     { name = "pandas" },
     { name = "pydantic" },
     { name = "pydantic-ai" },
+    { name = "pypdf" },
     { name = "requests" },
     { name = "scikit-learn" },
     { name = "streamlit" },
@@ -613,6 +614,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "pydantic", specifier = ">=2.12.4" },
     { name = "pydantic-ai", specifier = ">=1.23.0" },
+    { name = "pypdf", specifier = ">=6.4.0" },
     { name = "requests", specifier = ">=2.32.5" },
     { name = "scikit-learn", specifier = ">=1.7.2" },
     { name = "streamlit", specifier = ">=1.51.0" },
@@ -3126,6 +3128,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/f2/a5/181488fc2b9d093e3972d2a472855aae8a03f000592dbfce716a512b3359/pyparsing-3.2.5.tar.gz", hash = "sha256:2df8d5b7b2802ef88e8d016a2eb9c7aeaa923529cd251ed0fe4608275d4105b6", size = 1099274 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/10/5e/1aa9a93198c6b64513c9d7752de7422c06402de6600a8767da1524f9570b/pyparsing-3.2.5-py3-none-any.whl", hash = "sha256:e38a4f02064cf41fe6593d328d0512495ad1f3d8a91c4f73fc401b3079a59a5e", size = 113890 },
+]
+
+[[package]]
+name = "pypdf"
+version = "6.4.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/f3/01/f7510cc6124f494cfbec2e8d3c2e1a20d4f6c18622b0c03a3a70e968bacb/pypdf-6.4.0.tar.gz", hash = "sha256:4769d471f8ddc3341193ecc5d6560fa44cf8cd0abfabf21af4e195cc0c224072", size = 5276661 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/cd/f2/9c9429411c91ac1dd5cd66780f22b6df20c64c3646cdd1e6d67cf38579c4/pypdf-6.4.0-py3-none-any.whl", hash = "sha256:55ab9837ed97fd7fcc5c131d52fcc2223bc5c6b8a1488bbf7c0e27f1f0023a79", size = 329497 },
 ]
 
 [[package]]

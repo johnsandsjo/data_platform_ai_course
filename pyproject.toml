@@ -23,4 +23,5 @@ dependencies = [
     "dlt>=1.18.2",
     "streamlit>=1.51.0",
     "lancedb>=0.25.3",
+    "pypdf>=6.4.0",
 ]
